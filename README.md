@@ -1,0 +1,1 @@
+# pointer-with-array-in-c
